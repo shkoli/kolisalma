@@ -9,7 +9,7 @@
 | **Skills** | Python, PyTorch, TensorFlow, SAR, Remote Sensing, Docker |
 | **Projects** | SAR-DeNoiseNet (**In Development**), DisasterWatch AI (**Prototype**), OrbitPredict (**WIP**) |
 | **Education** | BSc CSE (3.50/4.0 Expected) | MSc Applicant |
-| **Connect** | [salma.koli.research@gmail.com](mailto:contact@salmahoquekoli.com) |
+| **Connect** | [contact@salmahoquekoli.com](mailto:contact@salmahoquekoli.com) |
 
 </div>
 
